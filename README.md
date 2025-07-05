@@ -1,8 +1,3 @@
-Absolutely! Here's the **full `README.md` markdown file** with everything included — quotes, usage instructions, credit to Ahmed Hassan, and ethical use guidelines — all inside a single Markdown document ready to be used in your GitHub repo.
-
----
-
-````markdown
 # 📧 100+ Company HR Emails (Curated by Ahmed Hassan)
 
 > 💬 *"Don’t wait for opportunity. Create it."*  
@@ -41,8 +36,6 @@ QA Lead @ Calrom | Release Manager | Agile Leader | Trainer | Motivator
 1. **Download or clone the repository**
    ```bash
    git clone https://github.com/yourusername/hr-contact-list.git
-````
-
 2. Open the `HR_Contact_List.xlsx` file in **Excel** or **Google Sheets**.
 3. If reaching out:
 
