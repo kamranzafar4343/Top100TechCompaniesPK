@@ -22,7 +22,7 @@ QA Lead @ Calrom | Release Manager | Agile Leader | Trainer | Motivator
 
 ## 📂 What's Included
 
-- **`HR_Contact_List.xlsx`**  
+- **`Copy of Companies Contact.xlsx`**  
   This Excel sheet contains two columns:
   - ✅ `Name` – Company or Organization Name  
   - ✅ `Email` – HR or Recruitment Email Address
@@ -34,7 +34,7 @@ QA Lead @ Calrom | Release Manager | Agile Leader | Trainer | Motivator
 1. **Download or clone the repository**
    ```bash
    git clone https://github.com/kamranzafar4343/Top100TechCompaniesPK.git
-2. Open the `Cop of Companies Contact.xlsx` file in **Excel** or **Google Sheets**.
+2. Open the `Copy of Companies Contact.xlsx` file in **Excel** or **Google Sheets**.
 3. If reaching out:
 
    * Introduce yourself briefly and professionally.
