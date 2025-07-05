@@ -13,8 +13,6 @@ This contact list was originally shared publicly on LinkedIn by:
 
 **Ahmed Hassan**  
 QA Lead @ Calrom | Release Manager | Agile Leader | Trainer | Motivator  
-📝 [Original Post Summary:](#)  
-> *"Not getting enough job opportunities? Let’s take one step further — by reaching out directly to HRs..."*  
 > Ahmed compiled a list of 100+ company HR/recruitment emails to support job seekers, especially fresh graduates and aspiring professionals.
 
 📌 All credit goes to **Ahmed Hassan** for collecting and sharing this valuable resource.  
@@ -35,8 +33,8 @@ QA Lead @ Calrom | Release Manager | Agile Leader | Trainer | Motivator
 
 1. **Download or clone the repository**
    ```bash
-   git clone https://github.com/yourusername/hr-contact-list.git
-2. Open the `HR_Contact_List.xlsx` file in **Excel** or **Google Sheets**.
+   git clone https://github.com/kamranzafar4343/Top100TechCompaniesPK.git
+2. Open the `Cop of Companies Contact.xlsx` file in **Excel** or **Google Sheets**.
 3. If reaching out:
 
    * Introduce yourself briefly and professionally.
