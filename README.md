@@ -18,7 +18,7 @@ QA Lead @ Calrom | Release Manager | Agile Leader | Trainer | Motivator
 > Ahmed compiled a list of 100+ company HR/recruitment emails to support job seekers, especially fresh graduates and aspiring professionals.
 
 📌 All credit goes to **Ahmed Hassan** for collecting and sharing this valuable resource.  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmedhassan/) *(Insert actual link)*
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/imahmedhassan/)
 
 ---
 
